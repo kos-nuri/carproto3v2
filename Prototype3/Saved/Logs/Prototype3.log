@@ -1,0 +1,649 @@
+﻿Log file open, 08/27/18 16:50:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Prototype3
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(251146700) SRandInit(251146700).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266423
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/RawInput/Binaries/Win64/UE4Editor-RawInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/UnrealEnginePython/Binaries/Win64/UE4Editor-UnrealEnginePython.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/UnrealEnginePython/Binaries/Win64/UE4Editor-PythonConsole.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/UnrealEnginePython/Binaries/Win64/UE4Editor-PythonEditor.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogStreaming: Display: Took  1.224s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am 1407C011 (10.14.0.69:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/apps/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.27-04.50.09:293][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.27-04.50.09:293][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.27-04.50.09:301][  0]LogInit: Computer: 1407C011
+[2018.08.27-04.50.09:301][  0]LogInit: User: jonathonhig6595
+[2018.08.27-04.50.09:301][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.27-04.50.09:301][  0]LogInit: High frequency timer resolution =3.515622 MHz
+[2018.08.27-04.50.09:301][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.27-04.50.09:301][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.27-04.50.09:301][  0]LogMemory: Process Physical Memory: 278.99 MB used, 278.99 MB peak
+[2018.08.27-04.50.09:301][  0]LogMemory: Process Virtual Memory: 268.99 MB used, 268.99 MB peak
+[2018.08.27-04.50.09:301][  0]LogMemory: Physical Memory: 11018.25 MB used,  5282.59 MB free, 16300.84 MB total
+[2018.08.27-04.50.09:301][  0]LogMemory: Virtual Memory: 746.22 MB used,  5282.59 MB free, 134217728.00 MB total
+[2018.08.27-04.50.09:326][  0]LogInit: Using OS detected language (en-US).
+[2018.08.27-04.50.09:326][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.27-04.50.09:329][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.27-04.50.09:725][  0]LogStreaming: Display: Took  0.399s to EndInitTextLocalization.
+[2018.08.27-04.50.09:725][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.27-04.50.09:758][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.27-04.50.09:758][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.27-04.50.09:985][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.27-04.50.10:043][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.08.27-04.50.10:043][  0]LogD3D11RHI:       2016/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.08.27-04.50.10:049][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.08.27-04.50.10:049][  0]LogD3D11RHI:       0/0/1792 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.27-04.50.10:051][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.27-04.50.10:051][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.27-04.50.10:051][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.27-04.50.10:061][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.27-04.50.10:061][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.27-04.50.10:061][  0]LogWindows: EnumDisplayDevices:
+[2018.08.27-04.50.10:061][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.08.27-04.50.10:061][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2018.08.27-04.50.10:061][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.08.27-04.50.10:061][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.08.27-04.50.10:061][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.27-04.50.10:061][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.27-04.50.10:061][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.27-04.50.10:062][  0]LogWindows:    7. 'Mirage Driver' (P:0 D:0)
+[2018.08.27-04.50.10:062][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.27-04.50.10:062][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.08.27-04.50.10:062][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.27-04.50.10:062][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.27-04.50.10:062][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2018.08.27-04.50.10:092][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.08.27-04.50.10:092][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.27-04.50.10:092][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.27-04.50.10:106][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.27-04.50.10:108][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Intermediate/Shaders/WorkingDirectory/13132/).
+[2018.08.27-04.50.10:108][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/jonathon.hig6595/AppData/Local/Temp/UnrealShaderWorkingDir/FD42A2E0401526532906B9BBCE1A855C/'.
+[2018.08.27-04.50.10:331][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.27-04.50.10:345][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.27-04.50.10:359][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.27-04.50.10:374][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.27-04.50.10:389][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.27-04.50.10:404][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.27-04.50.10:420][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.27-04.50.10:437][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.27-04.50.10:444][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.27-04.50.10:456][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.27-04.50.10:469][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.27-04.50.10:481][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.27-04.50.10:495][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.27-04.50.10:509][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.27-04.50.10:524][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.27-04.50.10:551][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.27-04.50.10:551][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.27-04.50.10:564][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-04.50.10:566][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.27-04.50.10:603][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.27-04.50.10:617][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.27-04.50.10:634][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.27-04.50.10:648][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.27-04.50.10:661][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.27-04.50.10:674][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.27-04.50.10:674][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.27-04.50.10:861][  0]LogXGEController: Cleaning working directory: D:/Users/jonathon.hig6595/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.27-04.50.10:861][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.27-04.50.10:861][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.27-04.50.10:861][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.27-04.50.11:671][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.27-04.50.11:738][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB D:/Users/jonathon.hig6595/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.27-04.50.11:738][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Users/jonathon.hig6595/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.27-04.50.11:738][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.27-04.50.11:738][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.27-04.50.11:738][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.27-04.50.11:738][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.27-04.50.11:755][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.27-04.50.11:767][  0]LogDerivedDataCache: Using Local data cache path D:/Users/jonathon.hig6595/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.27-04.50.11:767][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.27-04.50.11:767][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.27-04.50.11:778][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.27-04.50.11:778][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.27-04.50.11:779][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.27-04.50.11:779][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.27-04.50.11:958][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.08.27-04.50.12:256][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.27-04.50.12:435][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.27-04.50.12:439][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.27-04.50.12:439][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.27-04.50.12:439][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.27-04.50.12:439][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.27-04.50.12:439][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.27-04.50.12:495][  0]LogNetVersion: Prototype3 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 206204210)
+[2018.08.27-04.50.12:954][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.099993 seconds
+[2018.08.27-04.50.12:962][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.27-04.50.12:962][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.27-04.50.12:962][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.27-04.50.14:998][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.27-04.50.15:067][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.27-04.50.15:845][  0]SourceControl: Source control is disabled
+[2018.08.27-04.50.15:845][  0]SourceControl: Source control is disabled
+[2018.08.27-04.50.15:891][  0]SourceControl: Source control is disabled
+[2018.08.27-04.50.15:937][  0]SourceControl: Source control is disabled
+[2018.08.27-04.50.16:966][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.27-04.50.17:279][  0]LogOcInput: OculusInput pre-init called
+[2018.08.27-04.50.17:465][  0]LogPython: Python Scripts search path: D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Scripts
+[2018.08.27-04.50.17:465][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2018.08.27-04.50.17:465][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2018.08.27-04.50.17:655][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2018.08.27-04.50.17:655][  0]LogPython: 
+
+[2018.08.27-04.50.17:655][  0]LogPython: C:\apps\Epic Games\UE_4.19\Engine\Plugins\UnrealEnginePython\
+[2018.08.27-04.50.17:655][  0]LogPython: 
+
+[2018.08.27-04.50.17:710][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2018.08.27-04.50.17:710][  0]LogPython: 
+
+[2018.08.27-04.50.17:710][  0]LogPython: ue_site Python module successfully imported
+[2018.08.27-04.50.17:819][  0]LogEngine: Initializing Engine...
+[2018.08.27-04.50.17:820][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.27-04.50.17:822][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.27-04.50.17:822][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.27-04.50.18:029][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.27-04.50.18:043][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-04.50.18:057][  0]LogInit: FAudioDevice initialized.
+[2018.08.27-04.50.18:297][  0]LogDerivedDataCache: Saved boot cache 0.24s 74MB D:/Users/jonathon.hig6595/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.27-04.50.18:309][  0]LogInit: Texture streaming: Enabled
+[2018.08.27-04.50.18:329][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.27-04.50.18:347][  0]LogInit: Transaction tracking system initialized
+[2018.08.27-04.50.18:375][  0]BlueprintLog: New page: Editor Load
+[2018.08.27-04.50.18:462][  0]LocalizationService: Localization service is disabled
+[2018.08.27-04.50.18:635][  0]LogConsoleResponse: Display: 
+[2018.08.27-04.50.18:790][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.27-04.50.18:790][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.27-04.50.18:790][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.27-04.50.18:790][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.27-04.50.18:790][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.27-04.50.19:040][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/' took 0.01s
+[2018.08.27-04.50.19:615][  0]SourceControl: Source control is disabled
+[2018.08.27-04.50.19:615][  0]Cmd: MAP LOAD FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/john/LevelDesign.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.27-04.50.19:616][  0]LightingResults: New page: Lighting Build
+[2018.08.27-04.50.19:619][  0]MapCheck: New page: Map Check
+[2018.08.27-04.50.19:619][  0]LightingResults: New page: Lighting Build
+[2018.08.27-04.50.19:641][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c5590266d8, Size=4, Default__Sedan_AnimBP_C Function /Game/Sedan/Sedan_AnimBP.Sedan_AnimBP_C:ExecuteUbergraph_Sedan_AnimBP
+[2018.08.27-04.50.19:670][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c5737488b0, Size=48, Default__BTD_UpdateRoute_C Function /Game/Sedan/AI/BTD_UpdateRoute.BTD_UpdateRoute_C:ExecuteUbergraph_BTD_UpdateRoute
+[2018.08.27-04.50.19:686][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c5737488b0, Size=48
+[2018.08.27-04.50.19:686][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c5737488b0, Size=48, Default__BTD_UpdateRoute_C Function /Engine/Transient.REINST_BTD_UpdateRoute_C_6:ExecuteUbergraph_BTD_UpdateRoute
+[2018.08.27-04.50.19:689][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c5737496c0, Size=48, Default__BTD_UpdateRoute_C Function /Game/Sedan/AI/BTD_UpdateRoute.BTD_UpdateRoute_C:ExecuteUbergraph_BTD_UpdateRoute
+[2018.08.27-04.50.19:697][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c504866f80, Size=120, Default__AISedan_C Function /Game/Sedan/AI/AISedan.AISedan_C:ExecuteUbergraph_AISedan
+[2018.08.27-04.50.19:720][  0]LogLinker: Warning: Unable to load NavComponent with outer SedanController_C /Game/Sedan/AI/SedanController.Default__SedanController_C because its class does not exist
+[2018.08.27-04.50.19:749][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c504866f80, Size=120
+[2018.08.27-04.50.19:749][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c504866f80, Size=120, Default__AISedan_C Function /Engine/Transient.REINST_AISedan_C_10:ExecuteUbergraph_AISedan
+[2018.08.27-04.50.19:760][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/SedanController.SedanController:EdGraph_0.K2Node_FunctionEntry_127' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.19:762][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c504865b00, Size=120, Default__AISedan_C Function /Game/Sedan/AI/AISedan.AISedan_C:ExecuteUbergraph_AISedan
+[2018.08.27-04.50.19:763][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c504419360, Size=112, Default__BTT_MoveTo_C Function /Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo_C:ExecuteUbergraph_BTT_MoveTo
+[2018.08.27-04.50.19:763][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c5044eeb58, Size=8, Default__SedanController_C Function /Game/Sedan/AI/SedanController.SedanController_C:ExecuteUbergraph_SedanController
+[2018.08.27-04.50.19:930][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c506a8d040, Size=4, Default__VehicleAnimationBlueprint_C Function /Game/VehicleAdv/Vehicle/VehicleAnimationBlueprint.VehicleAnimationBlueprint_C:ExecuteUbergraph_VehicleAnimationBlueprint
+[2018.08.27-04.50.19:945][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c506a8d040, Size=4
+[2018.08.27-04.50.19:945][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c506a8d040, Size=4, Default__VehicleAnimationBlueprint_C Function /Engine/Transient.REINST_VehicleAnimationBlueprint_C_1:ExecuteUbergraph_VehicleAnimationBlueprint
+[2018.08.27-04.50.19:952][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c506a8c8a8, Size=4, Default__VehicleAnimationBlueprint_C Function /Game/VehicleAdv/Vehicle/VehicleAnimationBlueprint.VehicleAnimationBlueprint_C:ExecuteUbergraph_VehicleAnimationBlueprint
+[2018.08.27-04.50.19:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c50717fec0, Size=144, Default__VehicleAdvHud_C Function /Game/VehicleAdvBP/Blueprints/VehicleAdvHud.VehicleAdvHud_C:ExecuteUbergraph_VehicleAdvHud
+[2018.08.27-04.50.19:959][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c506d01280, Size=392, Default__VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.08.27-04.50.19:999][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c50717fec0, Size=144
+[2018.08.27-04.50.19:999][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c5078fd9e0, Size=144, Default__VehicleAdvHud_C Function /Engine/Transient.REINST_VehicleAdvHud_C_23:ExecuteUbergraph_VehicleAdvHud
+[2018.08.27-04.50.20:000][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c506d01280, Size=392
+[2018.08.27-04.50.20:000][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c507961ec0, Size=392, Default__VehicleBlueprint_C Function /Engine/Transient.REINST_VehicleBlueprint_C_24:ExecuteUbergraph_VehicleBlueprint
+[2018.08.27-04.50.20:010][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c507879620, Size=144, Default__VehicleAdvHud_C Function /Game/VehicleAdvBP/Blueprints/VehicleAdvHud.VehicleAdvHud_C:ExecuteUbergraph_VehicleAdvHud
+[2018.08.27-04.50.20:013][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c507960100, Size=392, Default__VehicleBlueprint_C Function /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint
+[2018.08.27-04.50.20:026][  0]LogLinker: Warning: Can't find file '/Game/john/LevelDesign_BuiltData'
+[2018.08.27-04.50.20:027][  0]LogLinker: Warning: Can't find file for asset '/Game/john/LevelDesign_BuiltData' while loading D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/john/LevelDesign.umap.
+[2018.08.27-04.50.20:027][  0]LoadErrors: Error: /Game/john/LevelDesign : Can't find file for asset. /Game/john/LevelDesign_BuiltData
+[2018.08.27-04.50.20:041][  0]LogLinker: Warning: Can't find file '/Game/john/LevelDesign_BuiltData'
+[2018.08.27-04.50.20:041][  0]LogLinker: Warning: Can't find file for asset '/Game/john/LevelDesign_BuiltData' while loading D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/john/LevelDesign.umap.
+[2018.08.27-04.50.20:041][  0]LoadErrors: Error: /Game/john/LevelDesign : Can't find file for asset. /Game/john/LevelDesign_BuiltData
+[2018.08.27-04.50.20:052][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c5085a6710, Size=112, Default__LevelDesign_C Function /Game/john/LevelDesign.LevelDesign_C:ExecuteUbergraph_LevelDesign
+[2018.08.27-04.50.20:052][  0]LogLinker: Warning: Can't find file '/Game/john/LevelDesign_BuiltData'
+[2018.08.27-04.50.20:052][  0]LogLinker: Warning: Can't find file for asset '/Game/john/LevelDesign_BuiltData' while loading NULL.
+[2018.08.27-04.50.20:052][  0]LogLinker: Warning: Can't find file '/Game/john/LevelDesign_BuiltData'
+[2018.08.27-04.50.20:052][  0]LogLinker: Warning: Can't find file for asset '/Game/john/LevelDesign_BuiltData' while loading NULL.
+[2018.08.27-04.50.20:055][  0]LogBlueprint: Warning: [Compiler PersistentLevel.LevelDesign] Set : 'swap' variable not found. Base class was probably changed. /Game/john/LevelDesign.LevelDesign:PersistentLevel.LevelDesign
+[2018.08.27-04.50.20:069][  0]LogBlueprint: Warning: [Compiler PersistentLevel.LevelDesign] Set swap : 'swap' variable not found. Base class was probably changed. /Game/john/LevelDesign.LevelDesign:PersistentLevel.LevelDesign
+[2018.08.27-04.50.20:069][  0]LogBlueprint: Warning: [Compiler PersistentLevel.LevelDesign] Set : 'swap' variable not found. Base class was probably changed. /Game/john/LevelDesign.LevelDesign:PersistentLevel.LevelDesign
+[2018.08.27-04.50.20:069][  0]LogBlueprint: Warning: [Compiler PersistentLevel.LevelDesign] Set swap : 'swap' variable not found. Base class was probably changed. /Game/john/LevelDesign.LevelDesign:PersistentLevel.LevelDesign
+[2018.08.27-04.50.20:070][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c5085a6710, Size=112
+[2018.08.27-04.50.20:070][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c5085a6710, Size=112, Default__LevelDesign_C Function /Engine/Transient.REINST_LevelDesign_C_29:ExecuteUbergraph_LevelDesign
+[2018.08.27-04.50.20:072][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c503c070b0, Size=112, Default__LevelDesign_C Function /Game/john/LevelDesign.LevelDesign_C:ExecuteUbergraph_LevelDesign
+[2018.08.27-04.50.20:073][  0]LogBlueprint: Warning: [Compiler PersistentLevel.LevelDesign] [0014.01] Compile of PersistentLevel.LevelDesign successful, but with 4 Warning(s) [in 18 ms] (/Game/john/LevelDesign.LevelDesign:PersistentLevel.LevelDesign)
+[2018.08.27-04.50.20:109][  0]LogLinker: Warning: Can't find file '/Game/john/LevelDesign_BuiltData'
+[2018.08.27-04.50.20:109][  0]LoadErrors: Failed to load /Game/john/LevelDesign_BuiltData.LevelDesign_BuiltData Referenced by PersistentLevel
+[2018.08.27-04.50.20:109][  0]LogLinker: Warning: Can't find file for asset '/Game/john/LevelDesign_BuiltData' while loading NULL.
+[2018.08.27-04.50.20:109][  0]LoadErrors: Failed to load /Game/john/LevelDesign_BuiltData.LevelDesign_BuiltData Referenced by PersistentLevel
+[2018.08.27-04.50.22:053][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [64.503235ms] /Game/Sedan/Sedan_SkelMesh.Sedan_SkelMesh
+[2018.08.27-04.50.22:055][  0]LogClass: Warning: Enum '/Game/Sedan/AI/SedanMovementState.SedanMovementState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.EdGraphNode_Comment_1608' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_AddDelegate_542' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_CallFunction_1037423' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_CallFunction_1061859' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_CallFunction_1062048' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_CallFunction_1064701' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_CallFunction_1066242' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_CustomEvent_933' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_DynamicCast_3536' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_DynamicCast_3545' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_DynamicCast_6776' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_Event_14305' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:060][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/BTT_MoveTo.BTT_MoveTo:EventGraph.K2Node_VariableGet_4589' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:375][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [19.419323ms] /Game/VehicleAdv/Vehicle/Vehicle_SkelMesh.Vehicle_SkelMesh
+[2018.08.27-04.50.22:380][  0]LogBlueprint: Warning: Node '/Game/Sedan/Sedan_AnimBP.Sedan_AnimBP:AnimGraph.AnimGraphNode_ComponentToLocalSpace_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:380][  0]LogBlueprint: Warning: Node '/Game/Sedan/Sedan_AnimBP.Sedan_AnimBP:AnimGraph.AnimGraphNode_MeshRefPose_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:380][  0]LogBlueprint: Warning: Node '/Game/Sedan/Sedan_AnimBP.Sedan_AnimBP:AnimGraph.AnimGraphNode_Root_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:380][  0]LogBlueprint: Warning: Node '/Game/Sedan/Sedan_AnimBP.Sedan_AnimBP:AnimGraph.AnimGraphNode_WheelHandler_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:381][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/SedanController.SedanController:EventGraph.K2Node_CallFunction_1133172' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:381][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/SedanController.SedanController:EventGraph.K2Node_Event_15222' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:381][  0]LogBlueprint: Warning: Node '/Game/Sedan/AI/SedanController.SedanController:UserConstructionScript.K2Node_FunctionEntry_127' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.08.27-04.50.22:477][  0]LogAIModule: Creating AISystem for world LevelDesign
+[2018.08.27-04.50.22:829][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.27-04.50.22:844][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c5737488b0, Size=48
+[2018.08.27-04.50.22:844][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c504866f80, Size=120
+[2018.08.27-04.50.22:844][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c506a8d040, Size=4
+[2018.08.27-04.50.22:844][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c5078fd9e0, Size=144
+[2018.08.27-04.50.22:844][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c507961ec0, Size=392
+[2018.08.27-04.50.22:844][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c5085a6710, Size=112
+[2018.08.27-04.50.22:847][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.27-04.50.22:947][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.281ms to complete.
+[2018.08.27-04.50.22:947][  0]LogFileHelpers: Loading map 'LevelDesign' took 3.332
+[2018.08.27-04.50.23:088][  0]LogCollectionManager: Loaded 0 collections in 0.001524 seconds
+[2018.08.27-04.50.23:134][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Collections/' took 0.01s
+[2018.08.27-04.50.23:134][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Developers/jonathonhig6595/Collections/' took 0.01s
+[2018.08.27-04.50.23:134][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Collections/' took 0.01s
+[2018.08.27-04.50.23:134][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.27-04.50.23:143][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2473 classes and 568 folders.
+[2018.08.27-04.50.23:150][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.27-04.50.23:202][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.27-04.50.23:209][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.27-04.50.23:294][  0]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.27-04.50.23:297][  0]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.27-04.50.23:303][  0]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.27-04.50.23:307][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.08.27-04.50.23:469][  0]LogRenderer: Reallocating scene render targets to support 1088x648 Format 10 NumSamples 1 (Frame:1).
+[2018.08.27-04.50.23:606][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.27-04.50.23:607][  0]LogLoad: (Engine Initialization) Total time: 17.55 seconds
+[2018.08.27-04.50.23:607][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.27-04.50.23:616][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.27-04.50.23:617][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.08.27-04.50.23:618][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.08.27-04.50.23:618][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2018.08.27-04.50.23:618][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.08.27-04.50.23:619][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2018.08.27-04.50.23:647][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.27-04.50.23:652][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-04.50.23:688][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.27-04.50.23:713][  1]LogAssetRegistry: Asset discovery search completed in 11.7774 seconds
+[2018.08.27-04.50.23:715][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.27-04.50.23:715][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000216 seconds (updated 0 objects)
+[2018.08.27-04.50.23:837][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2018.08.27-04.50.26:188][273]LogSlate: Window 'Message Log' being destroyed
+[2018.08.27-04.50.26:191][273]LogSlate: Window 'Message Log' being destroyed
+[2018.08.27-04.50.33:831][180]LogEditorViewport: Clicking on Actor (LMB): TrackGenerator_C (TrackGenerator)
+[2018.08.27-04.50.34:973][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.50.44:216][950]LogEditorFactories: Performing atomic reimport of [H:/Year3/PreProduction/Racing Game/Road.fbx]
+[2018.08.27-04.50.44:223][950]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.27-04.50.44:362][950]LogFbx: Loading FBX Scene from H:/Year3/PreProduction/Racing Game/Road.fbx
+[2018.08.27-04.50.44:461][950]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-04.50.44:477][950]LogFbx: Warning: Triangulating static mesh Road
+[2018.08.27-04.50.44:926][950]LogFbx: Warning: Triangulating mesh UCX_Road for collision model
+[2018.08.27-04.50.45:862][950]LogStaticMesh: Building static mesh Road...
+[2018.08.27-04.50.46:002][950]LogStaticMesh: Built static mesh [0.14s] /Game/Road/Road.Road
+[2018.08.27-04.50.46:077][950]LogEditorFactories: -- imported successfully
+[2018.08.27-04.51.01:433][513]LogSlate: Took 0.011426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.27-04.51.03:227][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.51.04:240][699]LogRenderer: Reallocating scene render targets to support 1088x876 Format 10 NumSamples 1 (Frame:1).
+[2018.08.27-04.51.22:309][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.51.22:338][706]LogSavePackage: Save=23.10ms
+[2018.08.27-04.51.22:338][706]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Road4A1DEF474897F867C697DDA264B15087.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.51.22:344][706]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.51.30:172][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.51.31:294][286]LogEditorFactories: Performing atomic reimport of [H:/Year3/PreProduction/Racing Game/Road.fbx]
+[2018.08.27-04.51.31:395][286]LogFbx: Loading FBX Scene from H:/Year3/PreProduction/Racing Game/Road.fbx
+[2018.08.27-04.51.31:498][286]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-04.51.31:511][286]LogFbx: Warning: Triangulating static mesh Road
+[2018.08.27-04.51.31:939][286]LogFbx: Warning: Triangulating mesh UCX_Road for collision model
+[2018.08.27-04.51.32:929][286]LogStaticMesh: Building static mesh Road...
+[2018.08.27-04.51.33:066][286]LogStaticMesh: Built static mesh [0.16s] /Game/Road/Road.Road
+[2018.08.27-04.51.33:160][286]LogEditorFactories: -- imported successfully
+[2018.08.27-04.51.39:328][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-04.51.53:458][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.51.54:223][705]LogEditorActor: Deleted Actor: TrackGenerator_C
+[2018.08.27-04.51.54:234][705]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.08.27-04.51.57:414][949]LogEditorActor: Deleted Actor: TrackGenerator_C
+[2018.08.27-04.51.57:426][949]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.08.27-04.52.12:292][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.52.18:262][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-04.52.20:516][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.52.27:441][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.52.36:267][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.52.42:433][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.52.42:470][492]LogSavePackage: Save=34.14ms
+[2018.08.27-04.52.42:471][492]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Road1A94467A41081E72BBC098BB163A500C.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.52.42:476][492]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.52.46:411][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.52.57:943][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.52.57:977][680]LogSavePackage: Save=32.16ms
+[2018.08.27-04.52.57:978][680]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/RoadD4210E5A422A1DA5C060C4AA3E4D26E2.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.52.57:984][680]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.52.59:266][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.53.00:270][815]LogEditorFactories: Performing atomic reimport of [H:/Year3/PreProduction/Racing Game/Road.fbx]
+[2018.08.27-04.53.00:393][815]LogFbx: Loading FBX Scene from H:/Year3/PreProduction/Racing Game/Road.fbx
+[2018.08.27-04.53.00:503][815]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-04.53.00:518][815]LogFbx: Warning: Triangulating static mesh Road
+[2018.08.27-04.53.00:939][815]LogFbx: Warning: Triangulating mesh UCX_Road for collision model
+[2018.08.27-04.53.01:920][815]LogStaticMesh: Building static mesh Road...
+[2018.08.27-04.53.02:097][815]LogStaticMesh: Built static mesh [0.19s] /Game/Road/Road.Road
+[2018.08.27-04.53.02:204][815]LogEditorFactories: -- imported successfully
+[2018.08.27-04.53.14:479][746]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-04.53.20:660][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.53.23:122][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.53.23:166][426]LogSavePackage: Save=41.99ms
+[2018.08.27-04.53.23:166][426]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Road2E25D54343CE5AF1CCE720A3EA5B564E.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.53.23:173][426]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.53.25:628][584]LogEditorFactories: Performing atomic reimport of [H:/Year3/PreProduction/Racing Game/Road.fbx]
+[2018.08.27-04.53.25:726][584]LogFbx: Loading FBX Scene from H:/Year3/PreProduction/Racing Game/Road.fbx
+[2018.08.27-04.53.25:819][584]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-04.53.25:833][584]LogFbx: Warning: Triangulating static mesh Road
+[2018.08.27-04.53.26:269][584]LogFbx: Warning: Triangulating mesh UCX_Road for collision model
+[2018.08.27-04.53.27:290][584]LogStaticMesh: Building static mesh Road...
+[2018.08.27-04.53.27:428][584]LogStaticMesh: Built static mesh [0.15s] /Game/Road/Road.Road
+[2018.08.27-04.53.27:510][584]LogEditorFactories: -- imported successfully
+[2018.08.27-04.53.33:390][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-04.53.40:804][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.53.44:839][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.53.44:894][925]LogSavePackage: Save=52.32ms
+[2018.08.27-04.53.44:894][925]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Road7E27D81F481CA141E369AB942658263F.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.53.44:901][925]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.53.48:121][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.53.48:177][161]LogSavePackage: Save=53.20ms
+[2018.08.27-04.53.48:177][161]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/RoadBCECB32D4EE13123A2E8B3AC2F554758.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.53.48:182][161]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.53.50:154][291]LogEditorFactories: Performing atomic reimport of [H:/Year3/PreProduction/Racing Game/Road.fbx]
+[2018.08.27-04.53.50:250][291]LogFbx: Loading FBX Scene from H:/Year3/PreProduction/Racing Game/Road.fbx
+[2018.08.27-04.53.50:342][291]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-04.53.50:356][291]LogFbx: Warning: Triangulating static mesh Road
+[2018.08.27-04.53.50:770][291]LogFbx: Warning: Triangulating mesh UCX_Road for collision model
+[2018.08.27-04.53.51:752][291]LogStaticMesh: Building static mesh Road...
+[2018.08.27-04.53.51:899][291]LogStaticMesh: Built static mesh [0.15s] /Game/Road/Road.Road
+[2018.08.27-04.53.51:981][291]LogEditorFactories: -- imported successfully
+[2018.08.27-04.53.57:973][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.53.58:040][699]LogSavePackage: Save=64.08ms
+[2018.08.27-04.53.58:040][699]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Road35766D244907F9B8AE811EA9B12F7740.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.53.58:048][699]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.54.18:977][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-04.54.23:230][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.54.23:360][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.54.23:427][833]LogSavePackage: Save=64.11ms
+[2018.08.27-04.54.23:427][833]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Road198A574A41EF217CDF70E195D114AF69.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.54.23:434][833]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.54.34:284][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.54.34:351][698]LogSavePackage: Save=64.12ms
+[2018.08.27-04.54.34:352][698]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/RoadC99320844E9501DC7DF3708BD37DD181.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.54.34:357][698]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.54.36:641][836]LogEditorFactories: Performing atomic reimport of [H:/Year3/PreProduction/Racing Game/Road.fbx]
+[2018.08.27-04.54.36:743][836]LogFbx: Loading FBX Scene from H:/Year3/PreProduction/Racing Game/Road.fbx
+[2018.08.27-04.54.36:821][836]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-04.54.36:835][836]LogFbx: Warning: Triangulating static mesh Road
+[2018.08.27-04.54.37:256][836]LogFbx: Warning: Triangulating mesh UCX_Road for collision model
+[2018.08.27-04.54.38:258][836]LogStaticMesh: Building static mesh Road...
+[2018.08.27-04.54.38:395][836]LogStaticMesh: Built static mesh [0.14s] /Game/Road/Road.Road
+[2018.08.27-04.54.38:468][836]LogEditorFactories: -- imported successfully
+[2018.08.27-04.56.44:054][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.56.44:138][172]LogSavePackage: Save=78.06ms
+[2018.08.27-04.56.44:138][172]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Road913CE9DA47D265E090C1188C1AB54175.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.56.44:144][172]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.57.11:511][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.57.11:593][775]LogSavePackage: Save=78.88ms
+[2018.08.27-04.57.11:593][775]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Road4CFB7F5D4293019C4FF55A9D84A4EE71.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.57.11:599][775]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.57.14:007][929]LogEditorFactories: Performing atomic reimport of [H:/Year3/PreProduction/Racing Game/Road.fbx]
+[2018.08.27-04.57.14:097][929]LogFbx: Loading FBX Scene from H:/Year3/PreProduction/Racing Game/Road.fbx
+[2018.08.27-04.57.14:185][929]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-04.57.14:199][929]LogFbx: Warning: Triangulating static mesh Road
+[2018.08.27-04.57.14:599][929]LogFbx: Warning: Triangulating mesh UCX_Road for collision model
+[2018.08.27-04.57.15:527][929]LogStaticMesh: Building static mesh Road...
+[2018.08.27-04.57.15:666][929]LogStaticMesh: Built static mesh [0.15s] /Game/Road/Road.Road
+[2018.08.27-04.57.15:737][929]LogEditorFactories: -- imported successfully
+[2018.08.27-04.57.34:389][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.57.34:481][337]LogSavePackage: Save=89.67ms
+[2018.08.27-04.57.34:482][337]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/RoadD7A7EF214391AAF50D4772930981127B.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.57.34:511][337]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.57.37:653][556]LogEditorFactories: Performing atomic reimport of [H:/Year3/PreProduction/Racing Game/Road.fbx]
+[2018.08.27-04.57.37:789][556]LogFbx: Loading FBX Scene from H:/Year3/PreProduction/Racing Game/Road.fbx
+[2018.08.27-04.57.37:867][556]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-04.57.37:881][556]LogFbx: Warning: Triangulating static mesh Road
+[2018.08.27-04.57.38:294][556]LogFbx: Warning: Triangulating mesh UCX_Road for collision model
+[2018.08.27-04.58.09:067][556]LogStaticMesh: Building static mesh Road...
+[2018.08.27-04.58.09:207][556]LogStaticMesh: Built static mesh [0.24s] /Game/Road/Road.Road
+[2018.08.27-04.58.09:338][556]LogEditorFactories: -- imported successfully
+[2018.08.27-04.58.20:937][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.27-04.58.21:040][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Road/Road" FILE="D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset" SILENT=true
+[2018.08.27-04.58.21:390][ 62]LogSavePackage: Save=346.74ms
+[2018.08.27-04.58.21:390][ 62]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/Road3DC08DDB472DFC4C0D4A4388D7B3711B.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset'
+[2018.08.27-04.58.21:396][ 62]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/Road/Road.uasset
+[2018.08.27-04.58.30:385][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.27-04.58.30:538][306]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c503c070b0, Size=112
+[2018.08.27-04.58.30:538][306]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c52e494db0, Size=112, Default__LevelDesign_C Function /Engine/Transient.REINST_LevelDesign_C_33:ExecuteUbergraph_LevelDesign
+[2018.08.27-04.58.30:541][306]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c59c60c800, Size=112, Default__LevelDesign_C Function /Game/john/LevelDesign.LevelDesign_C:ExecuteUbergraph_LevelDesign
+[2018.08.27-04.58.34:869][306]LogSavePackage: Save=4364.29ms
+[2018.08.27-04.58.34:869][306]LogSavePackage: Moving 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Saved/LevelDesignE6E311724A729CE78FEA0BB9080E72F3.tmp' to 'D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/john/LevelDesign.umap'
+[2018.08.27-04.58.34:875][306]LogSavePackage: Display: Finished SavePackage D:/Users/jonathon.hig6595/Documents/Prototypes/p3v4/carproto3v2/Prototype3/Content/john/LevelDesign.umap
+[2018.08.27-04.58.34:888][306]LogFileHelpers: Saving map 'LevelDesign' took 4.499
