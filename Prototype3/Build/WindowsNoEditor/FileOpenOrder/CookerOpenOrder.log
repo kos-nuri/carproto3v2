@@ -1,401 +1,719 @@
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Geometry/Meshes/CubeMaterial.uasset" 0
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Geometry/Meshes/1M_Cube.uasset" 1
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Geometry/Meshes/TemplateFloor.uasset" 3
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/enemy_car/Enemy_Car_lambert1_BaseColor.uasset" 4
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/enemy_car/Enemy_Car_lambert1_Emissive.uasset" 5
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/enemy_car/Enemy_Car_lambert1_Normal.uasset" 6
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/enemy_car/Enemy_Car_lambert1_OcclusionRoughnessMetallic.uasset" 7
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/enemy_car/enmycar.uasset" 8
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/enemy_car/Enemy_Car.uasset" 9
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 10
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 11
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 12
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 13
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 14
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 15
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 16
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/Atlas_MasterMaterial.uasset" 17
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset" 18
-"../../../Engine/Content/EditorMaterials/Cascade/CASC_None.uasset" 19
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 20
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/BrushDecal_MasterMaterial.uasset" 21
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/Decal_MasterMaterial.uasset" 22
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/Displacement_MasterMaterial.uasset" 23
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/Foliage_MasterMaterial.uasset" 24
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/Imperfection_MasterMaterial.uasset" 25
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 26
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 27
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 28
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/noise_mask.uasset" 29
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/noise_normal.uasset" 30
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/SurfaceBlend_MasterMaterial.uasset" 31
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Master_Materials/Standard_MasterMaterial.uasset" 32
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/pkcgG_2K_Albedo.uasset" 33
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/pkcgG_2K_Displacement.uasset" 34
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/pkcgG_2K_Normal.uasset" 35
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/pkcgG_2K_Roughness.uasset" 36
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/01_sand_sand_pkcgG0_2K_inst.uasset" 37
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/_template_C.uasset" 38
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/_template_RMA.uasset" 39
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/phong3_Opacity.uasset" 40
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/Road_phong3_BaseColor.uasset" 41
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/Road_phong3_Emissive.uasset" 42
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/Road_phong3_Normal.uasset" 43
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/Road_phong3_OcclusionRoughnessMetallic.uasset" 44
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/M_Road1.uasset" 45
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Meshes/StaticMesh.uasset" 46
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 47
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 48
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 49
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 50
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/M_Road.uasset" 51
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/LeftGuardRail.uasset" 52
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Mask.uasset" 53
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Metallicness.uasset" 54
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/RightGuardRail.uasset" 55
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Roughness.uasset" 56
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 57
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Spline.uasset" 58
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Test_Diffuse.uasset" 59
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Wall1_4_N.uasset" 60
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Textures/_template_N.uasset" 61
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Sedan_Skeleton.uasset" 62
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Sedan_AnimBP.uasset" 63
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/NewTire.uasset" 64
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Sedan_BackWheel.uasset" 65
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Sedan_FrontWheel.uasset" 66
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Sedan_PhysMat.uasset" 67
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan.uasset" 68
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Glass.uasset" 69
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Tires.uasset" 70
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Sedan_PhysicsAsset.uasset" 71
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Sedan_SkelMesh.uasset" 72
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Sedan.uasset" 73
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 74
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Textures/VehicleJoystick_BackgroundL.uasset" 75
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Textures/VehicleJoystick_BackgroundR.uasset" 76
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/SedanVirtualJoysticks.uasset" 77
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Headlights.uasset" 78
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Paint.uasset" 79
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Plastic.uasset" 80
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_TailLights.uasset" 81
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Wheels.uasset" 82
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/CubeMaterial.uasset" 83
-"../../../Engine/Content/EngineMaterials/Grid.uasset" 84
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/MasterGrid.uasset" 85
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/RedGrid.uasset" 86
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/pole.uasset" 87
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/MasterSolidColor.uasset" 88
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/SolidOrange.uasset" 89
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/RampTwist.uasset" 90
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/RoadSegment_01.uasset" 91
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_01_Loop.uasset" 92
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_02_Loop.uasset" 93
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_03_Loop.uasset" 94
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_04_Loop.uasset" 95
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_05_Loop.uasset" 96
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_06_Loop.uasset" 97
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Textures/VehicleJoystick_BackgroundL.uasset" 98
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Textures/VehicleJoystick_BackgroundR.uasset" 99
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 100
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Vehicle/LeftVirtualJoystickOnly.uasset" 101
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Vehicle/VehicleBodyCollision.uasset" 102
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 103
-"../../../Engine/Content/BasicShapes/Cone.uasset" 104
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 105
-"../../../Engine/Content/BasicShapes/Plane.uasset" 106
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 107
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 108
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 109
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 110
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 111
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 112
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 113
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 114
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 115
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 116
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 117
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 118
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 119
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 120
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 121
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 122
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 123
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 124
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 125
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 126
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 127
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 128
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 129
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 130
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 131
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 132
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 133
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 134
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 135
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 136
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 137
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 138
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 139
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 140
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 141
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 142
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 143
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 144
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 145
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 146
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 147
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 148
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 149
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 150
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 151
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 152
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 153
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 154
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 155
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 156
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 157
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 158
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 159
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 160
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 161
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 162
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 163
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 164
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 165
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 166
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 167
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 168
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 169
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 170
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 171
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 172
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 173
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 174
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 175
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 176
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 177
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 178
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 179
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 180
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 181
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 182
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 183
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 184
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 185
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 186
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 187
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 188
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 189
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 190
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 191
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 192
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 193
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 194
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 195
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 196
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 197
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 198
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 199
-"../../../Engine/Content/EngineResources/Black.uasset" 200
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 201
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 202
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 203
-"../../../Engine/Content/EngineSounds/Master.uasset" 204
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 205
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 206
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 207
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 208
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 209
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 210
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 211
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 212
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 213
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 214
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 215
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 216
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 217
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 218
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 219
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 220
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 221
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 222
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 223
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 224
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 225
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 226
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 227
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 228
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 229
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 230
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 231
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 232
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 233
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 234
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 235
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 236
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 237
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 238
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 239
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 240
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 241
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 242
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 243
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 244
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 245
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 246
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 247
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 248
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 249
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 250
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 251
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 252
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 253
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 254
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 255
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 256
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 257
-"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 258
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 259
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 260
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 261
-"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 262
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 263
-"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 264
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 265
-"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 266
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 267
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 268
-"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 269
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 270
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 271
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 272
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 273
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 274
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 275
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 276
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 277
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 278
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 279
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 280
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 281
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 282
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 283
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 284
-"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 285
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 286
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 287
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 288
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 289
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 290
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 291
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 292
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 293
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 294
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 295
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 296
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 297
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 298
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 299
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 300
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 301
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 302
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 303
-"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 304
-"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 305
-"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 306
-"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 307
-"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 308
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 309
-"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 310
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 311
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 312
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 313
-"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 314
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 315
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 316
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 317
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 318
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 319
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 320
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 321
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 322
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 323
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 324
-"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 325
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 326
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 327
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 328
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 329
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 330
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/AI/CarWaypoint.uasset" 331
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/AI/sedanData.uasset" 332
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/AI/BTD_UpdateRoute.uasset" 333
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/AI/BTT_MoveTo.uasset" 334
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/AI/sedanTrackRun.uasset" 335
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/AI/SedanController.uasset" 336
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/AI/SedanMovementState.uasset" 337
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Sedan/AI/AISedan.uasset" 338
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 339
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 340
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 341
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 342
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 343
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 344
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 345
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 346
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 347
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/SpotLight_Blueprint.uasset" 348
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/RoadBluePrint/Data/RoadData.uasset" 349
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/RoadBluePrint/BluePrints/TrackGenerator.uasset" 350
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Vehicle/VehicleSkeleton.uasset" 351
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Vehicle/VehicleAnimationBlueprint.uasset" 352
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/PhysicsMaterials/NonSlippery.uasset" 353
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/PhysicsMaterials/Slippery.uasset" 354
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Vehicle/WheelData/Vehicle_BackTireConfig.uasset" 355
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdvBP/Blueprints/WheelData/WheelBack.uasset" 356
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Vehicle/WheelData/Vehicle_FrontTireConfig.uasset" 357
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdvBP/Blueprints/WheelData/WheelFront.uasset" 358
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 359
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 360
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Sound/Engine_att.uasset" 361
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Sound/Engine_Loop_Cue.uasset" 362
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/Fixed_Template_Master.uasset" 363
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/Template_BaseBlue.uasset" 364
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Vehicle/VehiclePhysicsAsset.uasset" 365
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Vehicle/Vehicle_SkelMesh.uasset" 366
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" 367
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdvBP/Blueprints/VehicleAdvHud.uasset" 368
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset" 369
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/LevelDesign_BuiltData.uasset" 370
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 371
-"../../../Engine/Content/BasicShapes/Cube.uasset" 372
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 373
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/Cylinder_Brush_StaticMesh.uasset" 374
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Floor3.uasset" 375
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/NewMaterial.uasset" 376
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/Road/Road.uasset" 377
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/john/LevelDesign.umap" 378
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdvBP/Maps/LayerInfo/Desert_LayerInfo.uasset" 379
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdvBP/Maps/LayerInfo/Track_LayerInfo.uasset" 380
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset" 381
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/Landscape.uasset" 382
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/LandscapeNoHole.uasset" 383
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/BumpWave.uasset" 384
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/BumpWaveSmall.uasset" 385
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/BumpWedge.uasset" 386
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/LoopBig.uasset" 387
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/LoopSmall.uasset" 388
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/RampLarge.uasset" 389
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/BlackGrid.uasset" 390
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/StraightFull.uasset" 391
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/StraightHalf.uasset" 392
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/StraightQuarter.uasset" 393
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/SolidRed.uasset" 394
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/turn_22andhalf.uasset" 395
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/Turn_45.uasset" 396
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/Turn_90.uasset" 397
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdv/ArenaMesh/Turn_90Large.uasset" 398
-"D:/Users/konstantin.nur5221/Desktop/prototype3CarAdv/prototype3CarAdv/Prototype3/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" 399
-"../../../Engine/Content/Maps/Entry.umap" 400
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ForceFeedback/FFE_Damaged.uasset" 0
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ForceFeedback/FFE_Fire.uasset" 1
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ForceFeedback/FFE_Killed.uasset" 2
+"../../../Engine/Content/MaterialTemplates/Textures/T_Noise01.uasset" 3
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_light_shaft.uasset" 4
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_light_shaft_Inst.uasset" 5
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Water/distortion_01.uasset" 6
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Weapon/T_bullet_hole_2.uasset" 7
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Weapon/M_Impact_Decal.uasset" 8
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Ramp/M_radial_ramp_soft.uasset" 9
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Water/T_Steam_subUV.uasset" 10
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/water/M_Steam_SubUV.uasset" 11
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_beam_light.uasset" 12
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Air/T_cloud_1.uasset" 13
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Air/T_soft_smoke.uasset" 14
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_Cloud_1_particle.uasset" 15
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_Cloud_1_particle_Inst.uasset" 16
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_clouds_1.uasset" 17
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Air/T_cloud_2.uasset" 18
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_Cloud_2_particle_Inst.uasset" 19
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_Cloud_2_particle_Inst_2.uasset" 20
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_clouds_2.uasset" 21
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_clouds_2_brighter.uasset" 22
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_cloud.uasset" 23
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/MI_cloud_white_1.uasset" 24
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/MI_cloud_white_2.uasset" 25
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Air/T_cloud_4.uasset" 26
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/MI_cloud_white_3.uasset" 27
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_clouds_highrise.uasset" 28
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_clouds_highrise_sky.uasset" 29
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_clouds_highrise_sky_single.uasset" 30
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Noise/T_sparks_01.uasset" 31
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Water/T_Caustics_2.uasset" 32
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_dust_specs_sparkling.uasset" 33
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_dust_sparkles.uasset" 34
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 35
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 36
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 37
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 38
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 39
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/M_ramp.uasset" 40
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/General/hologram_streak.uasset" 41
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_hologram.uasset" 42
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_lightning.uasset" 43
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/General/SM_lightning.uasset" 44
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_lightning_beam.uasset" 45
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_lightning_point.uasset" 46
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Air/M_light_shaft_particle.uasset" 47
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_light_shafts.uasset" 48
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_Steam_falling.uasset" 49
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_Steam_falling_line.uasset" 50
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_waterfall_mist.uasset" 51
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Gameplay/Pickups/M_PickUp_Master.uasset" 52
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/Gameplay/Pickups/Ammo.uasset" 53
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/General/S_Sphere.uasset" 54
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Gameplay/Pick-ups/P_AssaultRifle_AMmo.uasset" 55
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/Gameplay/Pickups/SM_Health.uasset" 56
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Gameplay/Pick-ups/P_Health.uasset" 57
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/Gameplay/Pickups/Launcher.uasset" 58
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Gameplay/Pick-ups/P_Launcher_Ammo.uasset" 59
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/T_blood_various.uasset" 60
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/T_blood_various_N.uasset" 61
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Gameplay/M_impact_splash_subUV.uasset" 62
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Gameplay/Player/P_body_bullet_impact.uasset" 63
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/LensFlare/Flare_02.uasset" 64
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/LensFlare/M_LensFlare_02.uasset" 65
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Smoke/T_Clouds_01.uasset" 66
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Smoke/T_SmokeBall_01_8_8.uasset" 67
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Smoke/M_ImpactSmoke.uasset" 68
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Water/T_Steam_02_Packed.uasset" 69
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Smoke/M_MuzzleSmokeDetail_GPU.uasset" 70
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Spark/T_SparkCore_2X2.uasset" 71
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/spark/M_spark_subUV.uasset" 72
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Weapons/AssaultRifle/Impacts/P_AssaultRifle_IH.uasset" 73
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/LensFlare/T_Lensflare_01.uasset" 74
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/LensFlare/M_Lensflare_01.uasset" 75
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 76
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Ramp/M_SoftGradient_Muzzle.uasset" 77
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Smoke/M_SmokeBall.uasset" 78
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Weapon/T_muzzle_flashes.uasset" 79
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Weapon/M_muzzle_flash_subUV.uasset" 80
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Mask/T_SquareMaskTightEdge.uasset" 81
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Noise/T_TileNoise.uasset" 82
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Weapon/M_MuzzleGlow.uasset" 83
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/Weapon/SM_MuzzleCone.uasset" 84
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Weapons/AssaultRifle/Muzzle/P_AssaultRifle_MF.uasset" 85
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Ramp/T_FX_CameraDistort.uasset" 86
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Ramp/T_FX_ColorDistort.uasset" 87
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Weapon/M_WP_Linkgun_Connection.uasset" 88
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Energy/T_EFX_Beam_Electricity_02.uasset" 89
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Weapon/M_WP_ShockRifle_Panning_Beam.uasset" 90
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Weapons/AssaultRifle/Muzzle/P_AssaultRifle_Trail.uasset" 91
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Energy/T_EFX_Energy_Arc_SubUV.uasset" 92
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Energy/M_Electrical.uasset" 93
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Energy/T_EFX_Energy_Loop_Free.uasset" 94
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Energy/M_WP_ShockRifle_Ring.uasset" 95
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/fire/T_explo_SubUV.uasset" 96
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Explosion/M_explosion_subUV.uasset" 97
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Weapons/RocketLauncher/Impact/P_Launcher_IH.uasset" 98
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Noise/T_FX_RoilingFlameModulate.uasset" 99
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Textures/Weapon/T_Coil.uasset" 100
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Weapon/M_WP_LinkGun_MF_3_new.uasset" 101
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Weapons/RocketLauncher/Muzzle/P_Launcher_MF.uasset" 102
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Weapons/RocketLauncher/Muzzle/P_Launcher_proj.uasset" 103
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Geometry/Meshes/CubeMaterial.uasset" 104
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Geometry/Meshes/1M_Cube.uasset" 105
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 106
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Geometry/Meshes/TemplateFloor.uasset" 107
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/_template_C.uasset" 108
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/_template_RMA.uasset" 109
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/phong3_Opacity.uasset" 110
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/Road_phong3_BaseColor.uasset" 111
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/Road_phong3_Emissive.uasset" 112
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/Road_phong3_Normal.uasset" 113
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/Road_phong3_OcclusionRoughnessMetallic.uasset" 114
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/M_Road1.uasset" 115
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/Cylinder_Brush_StaticMesh.uasset" 116
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/SpotLight_Blueprint.uasset" 117
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/lambert1.uasset" 118
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/Car.uasset" 119
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/car_body.uasset" 120
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/Car_lightpoly_lambert1_BaseColor.uasset" 121
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/Car_lightpoly_lambert1_Emissive.uasset" 122
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/Car_lightpoly_lambert1_Normal.uasset" 123
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/Car_lightpoly_lambert1_OcclusionRoughnessMetallic.uasset" 124
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/car_main.uasset" 125
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/wheel_back.uasset" 126
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/wheel_front.uasset" 127
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LevelDesign_sharedassets/Sand_LayerInfo2.uasset" 128
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LevelDesign_sharedassets/Sand_LayerInfo3.uasset" 129
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LevelDesign_sharedassets/Snow_LayerInfo2.uasset" 130
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LevelDesign_sharedassets/Snow_LayerInfo3.uasset" 131
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/blinn16.uasset" 132
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/Lazer_Gun_Traps.uasset" 133
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/blinn3.uasset" 134
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/Razer_Trap_pCube1.uasset" 135
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/Razer_Trap_polySurface5.uasset" 136
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/Razer_Trap_polySurface6.uasset" 137
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/blinn2.uasset" 138
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/Razer_Trap_polySurface7.uasset" 139
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/Razer_Trap_polySurface8.uasset" 140
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/Razer_Trap_polySurface9.uasset" 141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 143
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset" 144
+"../../../Engine/Content/EditorMaterials/Cascade/CASC_None.uasset" 145
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 146
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 147
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 148
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 149
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/Standard_MasterMaterial.uasset" 150
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Custom_Surface/01_Snow/y00kSRs2cE2R41CnSk_dLA_2K_Albedo.uasset" 151
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Custom_Surface/01_Snow/y00kSRs2cE2R41CnSk_dLA_2K_Displacement.uasset" 152
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Custom_Surface/01_Snow/y00kSRs2cE2R41CnSk_dLA_2K_Metalness.uasset" 153
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Custom_Surface/01_Snow/y00kSRs2cE2R41CnSk_dLA_2K_Normal.uasset" 154
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Custom_Surface/01_Snow/y00kSRs2cE2R41CnSk_dLA_2K_Roughness.uasset" 155
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Custom_Surface/01_Snow/01_Snow_2K_inst.uasset" 156
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 157
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 158
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/Atlas_MasterMaterial.uasset" 159
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/BrushDecal_MasterMaterial.uasset" 160
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/Decal_MasterMaterial.uasset" 161
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/Displacement_MasterMaterial.uasset" 162
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/Foliage_MasterMaterial.uasset" 163
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/Imperfection_MasterMaterial.uasset" 164
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 165
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 166
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 167
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/noise_mask.uasset" 168
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/noise_normal.uasset" 169
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Master_Materials/SurfaceBlend_MasterMaterial.uasset" 170
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/pkcgG_2K_Displacement.uasset" 171
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Block_Out_Rocks_pCube38.uasset" 172
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Cylendar.uasset" 173
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Left_Wall_Boundary_pCube38.uasset" 174
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Left_Wall_Boundary_pPlane33.uasset" 175
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Rail_Road_Floor_pPlane31.uasset" 176
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Secound_Platform_pCube37.uasset" 177
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Wall_Side_Boundry_01_pCube38.uasset" 178
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Wall_Side_Boundry_01_pPlane33.uasset" 179
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 180
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/Emmisive.uasset" 181
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/fuckimretarded.uasset" 182
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/M_EmmisiveWave.uasset" 183
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/emmisivPlane.uasset" 184
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Mask.uasset" 185
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Metallicness.uasset" 186
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Floor3.uasset" 187
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/NewMaterial2.uasset" 188
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Road_phong3_BaseColor.uasset" 189
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Road_phong3_Emissive.uasset" 190
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Road_phong3_Normal.uasset" 191
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Roughness.uasset" 192
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 193
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Spline.uasset" 194
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Test_Diffuse.uasset" 195
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Wall1_4_N.uasset" 196
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/M_Metal.uasset" 197
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/_template_N.uasset" 198
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/polySurface238.uasset" 199
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/polySurface240.uasset" 200
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/polySurface242.uasset" 201
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/polySurface244.uasset" 202
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/polySurface246.uasset" 203
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/polySurface248.uasset" 204
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/polySurface251.uasset" 205
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/Tower.uasset" 206
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Sedan_Skeleton.uasset" 207
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Sedan_AnimBP.uasset" 208
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/NewTire.uasset" 209
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Sedan_BackWheel.uasset" 210
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Sedan_FrontWheel.uasset" 211
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Sedan_PhysMat.uasset" 212
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan.uasset" 213
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Glass.uasset" 214
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Tires.uasset" 215
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Sedan_PhysicsAsset.uasset" 216
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Sedan_SkelMesh.uasset" 217
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Sedan.uasset" 218
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 219
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Textures/VehicleJoystick_BackgroundL.uasset" 220
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Textures/VehicleJoystick_BackgroundR.uasset" 221
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/SedanVirtualJoysticks.uasset" 222
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/AI/CarWaypoint.uasset" 223
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/AI/sedanData.uasset" 224
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/AI/BTD_UpdateRoute.uasset" 225
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/AI/BTT_MoveTo.uasset" 226
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/AI/sedanTrackRun.uasset" 227
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/AI/SedanController.uasset" 228
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/enemy_car/Enemy_Car_lambert1_BaseColor.uasset" 229
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/enemy_car/Enemy_Car_lambert1_Emissive.uasset" 230
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/enemy_car/Enemy_Car_lambert1_Normal.uasset" 231
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/enemy_car/Enemy_Car_lambert1_OcclusionRoughnessMetallic.uasset" 232
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/enemy_car/enmycar.uasset" 233
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/enemy_car/Enemy_Car.uasset" 234
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/AI/SedanMovementState.uasset" 235
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/AI/AISedan.uasset" 236
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/AI/AISedan_Child.uasset" 237
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Headlights.uasset" 238
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Paint.uasset" 239
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Plastic.uasset" 240
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_TailLights.uasset" 241
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Sedan/Materials/M_Vehicle_Sedan_Inst_Wheels.uasset" 242
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/CubeMaterial.uasset" 243
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 244
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/MasterGrid.uasset" 245
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/RedGrid.uasset" 246
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/pole.uasset" 247
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/MasterSolidColor.uasset" 248
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/SolidOrange.uasset" 249
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/RampTwist.uasset" 250
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/RoadSegment_01.uasset" 251
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_02_Loop.uasset" 252
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_04_Loop.uasset" 253
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_06_Loop.uasset" 254
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Textures/VehicleJoystick_BackgroundL.uasset" 255
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Textures/VehicleJoystick_BackgroundR.uasset" 256
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 257
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Vehicle/LeftVirtualJoystickOnly.uasset" 258
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Vehicle/VehicleBodyCollision.uasset" 259
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/H5012SB.uasset" 260
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Vehicle/VehicleSkeleton.uasset" 261
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Vehicle/VehicleAnimationBlueprint.uasset" 262
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 263
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/VehicleAdvHud.uasset" 264
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/PhysicsMaterials/NonSlippery.uasset" 265
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/PhysicsMaterials/Slippery.uasset" 266
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Vehicle/WheelData/Vehicle_BackTireConfig.uasset" 267
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/WheelData/WheelBack.uasset" 268
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Vehicle/WheelData/Vehicle_FrontTireConfig.uasset" 269
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/WheelData/WheelFront.uasset" 270
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 271
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 272
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/newcar/Lambo_lambert1_BaseColor.uasset" 273
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/newcar/Lambo_lambert1_Emissive.uasset" 274
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/newcar/Lambo_lambert1_OcclusionRoughnessMetallic.uasset" 275
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/newcar/carmat.uasset" 276
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/car/newcar/Lambo.uasset" 277
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/Demonized.uasset" 278
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/Demonized_Font.uasset" 279
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/HorusN.uasset" 280
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/HorusN_Font.uasset" 281
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/HighresScreenshot00019.uasset" 282
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/UI_Help.uasset" 283
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/UI_mainMenu.uasset" 284
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Sound/Engine_att.uasset" 285
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_01_Loop.uasset" 286
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_03_Loop.uasset" 287
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Sound/Engine_Speed_05_Loop.uasset" 288
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Sound/Engine_Loop_Cue.uasset" 289
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/Fixed_Template_Master.uasset" 290
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/Template_BaseBlue.uasset" 291
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Vehicle/VehiclePhysicsAsset.uasset" 292
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Vehicle/Vehicle_SkelMesh.uasset" 293
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/Ltl12359.uasset" 294
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Textures/T_Dust.uasset" 295
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Materials/M_FxDust.uasset" 296
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Particles/Fx_Dust.uasset" 297
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Materials/M_FxSphare.uasset" 298
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Particles/Fx_SnowFall.uasset" 299
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Particles/Fx_SpeedTrail.uasset" 300
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" 301
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/SnowTrigger_BP.uasset" 302
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Textures/Smoke01.uasset" 303
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Textures/Smoke02.uasset" 304
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Materials/M_FxExplosion.uasset" 305
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Materials/M_FxSmoke.uasset" 306
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Particles/Fx_Damage.uasset" 307
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Particles/Fx_Spark.uasset" 308
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Textures/GradientMask.uasset" 309
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Textures/SpeedBuff.uasset" 310
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Materials/M_BuffSphare.uasset" 311
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Meshs/Obj_BuffSphare.uasset" 312
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Particles/Fx_SpeedBuff.uasset" 313
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Materials/FakedCaustics.uasset" 314
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Textures/T_MicroWaves_N.uasset" 315
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Textures/T_OceanFoam_01.uasset" 316
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 317
+"../../../Engine/Content/BasicShapes/Cone.uasset" 318
+"../../../Engine/Content/BasicShapes/Cube.uasset" 319
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 320
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 321
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 322
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 323
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 324
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 325
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 326
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 327
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 328
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 329
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 330
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 331
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 332
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 333
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 334
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 335
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 336
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 337
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 338
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 339
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 340
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 341
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 342
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 343
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 344
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 345
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 346
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 347
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 348
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 349
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 350
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 351
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 352
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 353
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 354
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 355
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 356
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 357
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 358
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 359
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 360
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 361
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 362
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 363
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 364
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 365
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 366
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 367
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 368
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 369
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 370
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 371
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 372
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 373
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 374
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 375
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 376
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 377
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 378
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 379
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 380
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 381
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 382
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 383
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 384
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 385
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 386
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 387
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 388
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 390
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 391
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 392
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 393
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 394
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 395
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 396
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 397
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 398
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 399
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 400
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 401
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 402
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 403
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 404
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 405
+"../../../Engine/Content/EngineResources/Black.uasset" 406
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 407
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 408
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 409
+"../../../Engine/Content/EngineSounds/Master.uasset" 410
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 411
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 412
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 413
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 414
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 415
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 416
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 417
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 418
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 419
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 420
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 421
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 422
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 423
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 424
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 425
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 426
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 427
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 428
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 429
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 430
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 431
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 432
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 433
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 434
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 435
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 436
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 437
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 438
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 439
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 440
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 441
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 442
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 443
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 444
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 445
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 446
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 447
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 448
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 449
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 450
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 451
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 452
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 453
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 454
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 455
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 456
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 457
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 458
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 459
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 460
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 461
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 462
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 463
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 464
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 465
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 466
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 467
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 468
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 469
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 470
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 471
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 472
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 473
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 474
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 475
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 476
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 477
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 478
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 479
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 480
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 481
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 482
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 483
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 484
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 485
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 486
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 487
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 488
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 489
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 490
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 491
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 492
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 493
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 494
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 495
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 496
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 497
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 498
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 499
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 500
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 501
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 502
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 503
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 504
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 505
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 506
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 507
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 508
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 509
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 510
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 511
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 512
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 513
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 514
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 515
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 516
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 517
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 518
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 519
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 520
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 521
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 522
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 523
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 524
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 525
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 526
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 527
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 528
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 529
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 530
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 531
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 532
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 533
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 534
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 535
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 536
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 537
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 538
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 539
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 540
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 541
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 542
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 543
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 544
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/blinn2.uasset" 545
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/Spike_trap_polySurface21.uasset" 546
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/blinn1.uasset" 547
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/Spike_trap_polySurface62.uasset" 548
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/Spike_trap_polySurface62_Blueprint.uasset" 549
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/RoadBluePrint/Data/RoadData.uasset" 550
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/RoadBluePrint/BluePrints/TrackGenerator.uasset" 551
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset" 552
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 553
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/Towers_C.uasset" 554
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/Towers_N.uasset" 555
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/Towers_RME.uasset" 556
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/Tower_Mat.uasset" 557
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/pkcgG_2K_Albedo.uasset" 558
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/pkcgG_2K_Normal.uasset" 559
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/pkcgG_2K_Roughness.uasset" 560
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Surface/01_sand_sand_pkcgG0/01_sand_sand_pkcgG0_2K_inst.uasset" 561
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/15spotlight.uasset" 562
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/NewMaterial.uasset" 563
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Blueprints/NewMaterial_Inst.uasset" 564
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 565
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 566
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 567
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 568
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Lake/Textures/T_SmallWaves_N.uasset" 569
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Materials/OceanWater_SS.uasset" 570
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Textures/T_LargeWaves_H.uasset" 571
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Textures/T_LargeWaves_N.uasset" 572
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Textures/T_Seafoam_01.uasset" 573
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Materials/M_OceanWater_1.uasset" 574
+"../../../Engine/Content/MapTemplates/Sky/Desert_Outer_HDR.uasset" 575
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Materials/M_OceanWater_1_Inst.uasset" 576
+"../../../Engine/Content/BasicShapes/Plane.uasset" 577
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 578
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 579
+"../../../Engine/Content/MapTemplates/daylight.uasset" 580
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Gameplay/M_vehicle_master_vertexcolor.uasset" 581
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Gameplay/M_vehicle_master.uasset" 582
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Gameplay/M_vehicle_bottom.uasset" 583
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Gameplay/M_vehicle_energy.uasset" 584
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Gameplay/M_vehicle_glass.uasset" 585
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Gameplay/M_vehicle_light.uasset" 586
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Materials/Gameplay/M_vehicle_red_light.uasset" 587
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/General/SM_flying_car_1.uasset" 588
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/General/SM_flying_car_2.uasset" 589
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/General/SM_flying_car_3.uasset" 590
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/Meshes/General/SM_flying_car_4.uasset" 591
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_cars_straight_line.uasset" 592
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_cars_turning.uasset" 593
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Effects/ParticleSystems/Environment/P_cars_waving.uasset" 594
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/UI_Gameplay.uasset" 595
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Garden_Isle_pCylinder14.uasset" 596
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Left_Wall_Boundary_pCube36.uasset" 597
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Left_Wall_Boundary_pPlane32.uasset" 598
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Out_Arch_Ring_pCylinder17.uasset" 599
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Out_Arch_Ring_pCylinder18.uasset" 600
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Out_Arch_Ring_pCylinder19.uasset" 601
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Outer_Arch_Supporters_pCube27.uasset" 602
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Outer_Arch_Supporters_pCube28.uasset" 603
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Outer_Arch_Supporters_pCube29.uasset" 604
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Outer_Arch_Supporters_pCube8.uasset" 605
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Outer_Bridge_Arches_polySurface274.uasset" 606
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Sheltered_Veranda.uasset" 607
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Side_Road_Bumb.uasset" 608
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Station_Platform_pCube17.uasset" 609
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Station_Platform_pCube9.uasset" 610
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Tube_Glass_pCylinder9.uasset" 611
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Wall_decore__Concrete_pCube12.uasset" 612
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Wall_decore__Concrete_pCube13.uasset" 613
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Wall_decore__Concrete_pCube18.uasset" 614
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Wall_decore__Concrete_pCube19.uasset" 615
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Wall_Side_Boundry_01_pCube36.uasset" 616
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Wall_Side_Boundry_01_pPlane32.uasset" 617
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Meshes/Wall_Side_Boundry_02_pCube35.uasset" 618
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/M_EmmisiveWave1.uasset" 619
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/LeftGuardRail.uasset" 620
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/RightGuardRail.uasset" 621
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/NewMaterial.uasset" 622
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Textures/M_Road.uasset" 623
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Road.uasset" 624
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/NewMaterial1.uasset" 625
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/NewMaterial3.uasset" 626
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/RoadTunnel.uasset" 627
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/Tower/Tower2.uasset" 628
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/finalisingai.umap" 629
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Road/SnowTrigger_BP.uasset" 630
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/spikenew/Spike_lambert1_BaseColor.uasset" 631
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/spikenew/Spike_lambert1_Emissive.uasset" 632
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/spikenew/Spike_lambert1_OcclusionRoughnessMetallic.uasset" 633
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/spikenew/spikenewmat.uasset" 634
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/spikenew/Spike.uasset" 635
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 636
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Textures/T_SeamlessSmoke_Diffuse.uasset" 637
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Textures/T_SeamlessSmoke_Normal.uasset" 638
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Materials/M_FxSmokeTrail.uasset" 639
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VFX/Particles/Fx_Explosion.uasset" 640
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/spiketrap/spikenew/SpikeTrap.uasset" 641
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LevelDesign_sharedassets/Sand_LayerInfo.uasset" 642
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LevelDesign_sharedassets/Snow2_LayerInfo2.uasset" 643
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LevelDesign_sharedassets/Snow_LayerInfo.uasset" 644
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LevelDesign_BuiltData.uasset" 645
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Surface/Snow/sfzofod_2K_Albedo.uasset" 646
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Surface/Snow/sfzofod_2K_Normal.uasset" 647
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/Surface/Snow/sfzofod_2K_Roughness.uasset" 648
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/Megascans/LandScapeMaterial.uasset" 649
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/M_EmmisiveWave1.uasset" 650
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LeftGuardRail.uasset" 651
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/M_EmmisiveWave2.uasset" 652
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/RightGuardRail.uasset" 653
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/trackholder/Nani_low_lambert1_BaseColor.uasset" 654
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/trackholder/Nani_low_lambert1_Emissive.uasset" 655
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/trackholder/Nani_low_lambert1_Normal.uasset" 656
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/trackholder/Nani_low_lambert1_OcclusionRoughnessMetallic.uasset" 657
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/trackholder/trackhold.uasset" 658
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/trackholder/Nani_low.uasset" 659
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/lasertrap/Lazer_blinn16_BaseColor.uasset" 660
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/lasertrap/Lazer_blinn16_Emissive.uasset" 661
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/lasertrap/Lazer_blinn16_OcclusionRoughnessMetallic.uasset" 662
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/lasertrap/lasermat.uasset" 663
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/lasertrap/Lazer.uasset" 664
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/newrazer/Razer_lambert1_BaseColor.uasset" 665
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/newrazer/Razer_lambert1_Emissive.uasset" 666
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/newrazer/Razer_lambert1_OcclusionRoughnessMetallic.uasset" 667
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/newrazer/razermat.uasset" 668
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/traps/razertrap/newrazer/Razer.uasset" 669
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/LevelDesign.umap" 670
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/john/MainMenu.umap" 671
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Maps/LayerInfo/Desert_LayerInfo.uasset" 672
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Maps/LayerInfo/Track_LayerInfo.uasset" 673
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset" 674
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/Landscape.uasset" 675
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/LandscapeNoHole.uasset" 676
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/BumpWave.uasset" 677
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/BumpWaveSmall.uasset" 678
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/BumpWedge.uasset" 679
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/LoopBig.uasset" 680
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/LoopSmall.uasset" 681
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/RampLarge.uasset" 682
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/BlackGrid.uasset" 683
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/StraightFull.uasset" 684
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/StraightHalf.uasset" 685
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/StraightQuarter.uasset" 686
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/Materials/MaterialInstances/SolidRed.uasset" 687
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/turn_22andhalf.uasset" 688
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/Turn_45.uasset" 689
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/Turn_90.uasset" 690
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdv/ArenaMesh/Turn_90Large.uasset" 691
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" 692
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Lake/Textures/T_MediumWaves_H.uasset" 693
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Lake/Textures/T_MediumWaves_N.uasset" 694
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Lake/Materials/M_LakeWater_01.uasset" 695
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Lake/Materials/M_LakeWater_01_Inst.uasset" 696
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Meshes/SM_OceanWater.uasset" 697
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Lake/Blueprint/BP_LakeWater.uasset" 698
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 699
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Textures/T_Detail_Rocky_N.uasset" 700
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Textures/T_Rock_Basalt_D.uasset" 701
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Textures/T_RockMesh_M.uasset" 702
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Textures/T_RockMesh_N.uasset" 703
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Props/Materials/M_Rock.uasset" 704
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Props/SM_Rock.uasset" 705
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Maps/LakeWater_Example.umap" 706
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Ocean/Blueprint/BP_OceanWater.uasset" 707
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Maps/OceanWater_Example.umap" 708
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 709
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Translucent/Materials/M_TranslucentWater.uasset" 710
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Translucent/Materials/M_TranslucentWater_Inst.uasset" 711
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Translucent/Blueprint/BP_TranslucentWater.uasset" 712
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Textures/T_MacroVariation.uasset" 713
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Textures/T_Perlin_Noise_M.uasset" 714
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Textures/T_Rock_Basalt_N.uasset" 715
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Environment/Materials/M_Rock_Basalt.uasset" 716
+"D:/Users/konstantin.nur5221/Documents/git proto/carproto3v2/Prototype3/Content/WaterPlane/Maps/TranslucentWater_Example.umap" 717
+"../../../Engine/Content/Maps/Entry.umap" 718
