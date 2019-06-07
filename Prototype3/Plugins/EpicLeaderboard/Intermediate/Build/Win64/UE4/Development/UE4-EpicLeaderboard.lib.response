@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\MDS\UESaves\githubmay\carproto3v2\Prototype3\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Development\EpicLeaderboard\Module.EpicLeaderboard.cpp.obj"
+"D:\MDS\UESaves\githubmay\carproto3v2\Prototype3\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Development\EpicLeaderboard\Module.EpicLeaderboard.gen.cpp.obj"
+"D:\MDS\UESaves\githubmay\carproto3v2\Prototype3\Intermediate\Build\Win64\UE4\Development\EpicLeaderboard\PCLaunch.rc.res"
+/OUT:"D:\MDS\UESaves\githubmay\carproto3v2\Prototype3\Plugins\EpicLeaderboard\Binaries\Win64\UE4-EpicLeaderboard.lib"
