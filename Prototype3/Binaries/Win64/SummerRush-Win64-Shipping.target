@@ -34,6 +34,10 @@
 			"IsPrecompiled": true
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/EpicLeaderboard/Binaries/Win64/UE4-EpicLeaderboard-Win64-Shipping.lib",
+			"Type": "StaticLibrary"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4-Paper2D-Win64-Shipping.lib",
 			"Type": "StaticLibrary",
 			"IsPrecompiled": true
@@ -685,6 +689,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/RawInput/RawInput.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/EpicLeaderboard/EpicLeaderboard.uplugin",
 			"Type": "UFS"
 		},
 		{

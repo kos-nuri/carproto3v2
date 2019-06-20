@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+"D:\GitKraken\carproto3v2\Prototype3\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Shipping\EpicLeaderboard\Module.EpicLeaderboard.cpp.obj"
+"D:\GitKraken\carproto3v2\Prototype3\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Shipping\EpicLeaderboard\Module.EpicLeaderboard.gen.cpp.obj"
+"D:\GitKraken\carproto3v2\Prototype3\Intermediate\Build\Win64\UE4\Shipping\EpicLeaderboard\PCLaunch.rc.res"
+/OUT:"D:\GitKraken\carproto3v2\Prototype3\Plugins\EpicLeaderboard\Binaries\Win64\UE4-EpicLeaderboard-Win64-Shipping.lib"
