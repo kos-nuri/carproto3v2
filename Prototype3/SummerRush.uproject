@@ -14,7 +14,7 @@
 		},
 		{
 			"Name": "EpicLeaderboard",
-			"Enabled": false
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
